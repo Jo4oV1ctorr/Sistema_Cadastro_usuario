@@ -1,9 +1,11 @@
 # Sistema_Cadastro_usuário [PITANG]
- 
- Sistema de validação  de usuários através do painel administrativo para
+  
+  
+ Sistema de validação  de usuários através do painel administrativo 
  adicionar novos funcionários após contratação pelo formulário de
- cadastro 
- 
+ cadastro . Feito com Javascript  puro orientado a objeto
+  
+ TECNOLOGIAS  #HTML#CSS#JAVASCRIPT
  ![image](https://user-images.githubusercontent.com/91574246/166851965-48c92787-bb57-47bf-a35b-9a20ea162e97.png)
 ![image](https://user-images.githubusercontent.com/91574246/166851973-c59ece3e-5ea3-425c-aa83-c07f7ad97ced.png)
 ![image](https://user-images.githubusercontent.com/91574246/166852015-fde3ed34-2503-4421-bdff-3286f55007ef.png)
